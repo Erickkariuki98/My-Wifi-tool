@@ -15,7 +15,7 @@ class WifiTool:
                                                ''',"red")
         cprint("                        - A Wifi Toolkit for all\n","magenta")
         cprint("                                 Version : Final\n","red") 
-        cprint("                                    By Kalihackz\n","cyan")                                              
+        cprint("                                    By Erick Kariuki\n","cyan")                                              
         cprint("Starting the WifiTool . . . \n","green")
         self.interface = interface
         time.sleep(2)
